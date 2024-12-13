@@ -1,4 +1,4 @@
-# YekSoalSade
+# YekSoalSade.php
 https://quera.org/problemset/2885
 <?php
 $n = (int)readline("Enter a number: ");
